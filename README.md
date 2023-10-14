@@ -1,6 +1,6 @@
-print("hello, welcome to calculator")
-a=int((input)("enter the first number"))
-b=int((input)("enter thhe second number"))
+print("hello, welcome to calculator")\n
+a=int((input)("enter the first number"))\n
+b=int((input)("enter thhe second number"))\n
 print("addition of those numbers is ",a+b)
 print("subtraction of those numbers is", a-b)
 print("multplication of those numbers is", a*b)
